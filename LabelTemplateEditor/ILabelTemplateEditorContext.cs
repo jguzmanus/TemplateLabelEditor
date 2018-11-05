@@ -14,6 +14,5 @@ namespace LabelTemplateEditor
       ICommand ClearTemplateCommand { get; }
       ICommand ClearDataCommand { get; }
       EventHandler CloseWindowCommand { get; }
-      EventHandler LoadWindowCommand { get; }
    }
 }

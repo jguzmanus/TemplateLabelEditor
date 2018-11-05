@@ -36,8 +36,6 @@ namespace LabelTemplateEditor
          
          DataContext = dc;
          Closed += dc.CloseWindowCommand;
-         Activated += dc.LoadWindowCommand;
-
       }
    }
 }

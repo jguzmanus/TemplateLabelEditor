@@ -60,8 +60,6 @@ namespace LabelTemplateEditor
       public ICommand ClearTemplateCommand => new RelayCommand(() => Template = "");
       public ICommand ClearDataCommand => new RelayCommand(() => Data = "");
       public EventHandler CloseWindowCommand { get; }
-      public EventHandler LoadWindowCommand { get; }
-
 
       public event PropertyChangedEventHandler PropertyChanged;
 
@@ -77,13 +75,9 @@ namespace LabelTemplateEditor
          Data = "";
          Filename = @"c:\temp\label.pdf";
          Status = "Ready";
-         CloseWindowCommand += OnCloseWindowCommand;
-         LoadWindowCommand += OnLoadWindowCommand;
-      }
-
-      private void OnLoadWindowCommand(object sender, EventArgs e)
-      {
          DeSerialize(AssemblyConfigFile);
+         CloseWindowCommand += OnCloseWindowCommand;
+         
       }
 
       private void OnCloseWindowCommand(object sender, EventArgs e)
@@ -159,8 +153,6 @@ namespace LabelTemplateEditor
       {
          try
          {
-            if (!Data.Equals(string.Empty) || !Template.Equals(string.Empty)) return;
-
             using (var stream = File.OpenRead(path))
             {
                var serializer = new DataContractSerializer(typeof(LabelTemplateEditorContext));
