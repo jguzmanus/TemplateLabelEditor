@@ -1,0 +1,15 @@
+c:\users\jguzman\documents\visual studio 2015\Projects\LabelTemplateEditor\LabelTemplateEditor\bin\Debug\LabelTemplateEditor.exe.config
+c:\users\jguzman\documents\visual studio 2015\Projects\LabelTemplateEditor\LabelTemplateEditor\bin\Debug\LabelTemplateEditor.exe
+c:\users\jguzman\documents\visual studio 2015\Projects\LabelTemplateEditor\LabelTemplateEditor\bin\Debug\LabelTemplateEditor.pdb
+c:\users\jguzman\documents\visual studio 2015\Projects\LabelTemplateEditor\LabelTemplateEditor\obj\Debug\LabelTemplateEditor.csprojResolveAssemblyReference.cache
+c:\users\jguzman\documents\visual studio 2015\Projects\LabelTemplateEditor\LabelTemplateEditor\obj\Debug\MainWindow.g.cs
+c:\users\jguzman\documents\visual studio 2015\Projects\LabelTemplateEditor\LabelTemplateEditor\obj\Debug\App.g.cs
+c:\users\jguzman\documents\visual studio 2015\Projects\LabelTemplateEditor\LabelTemplateEditor\obj\Debug\LabelTemplateEditor_MarkupCompile.cache
+c:\users\jguzman\documents\visual studio 2015\Projects\LabelTemplateEditor\LabelTemplateEditor\obj\Debug\LabelTemplateEditor_MarkupCompile.lref
+c:\users\jguzman\documents\visual studio 2015\Projects\LabelTemplateEditor\LabelTemplateEditor\obj\Debug\MainWindow.baml
+c:\users\jguzman\documents\visual studio 2015\Projects\LabelTemplateEditor\LabelTemplateEditor\obj\Debug\LabelTemplateEditor.g.resources
+c:\users\jguzman\documents\visual studio 2015\Projects\LabelTemplateEditor\LabelTemplateEditor\obj\Debug\LabelTemplateEditor.Properties.Resources.resources
+c:\users\jguzman\documents\visual studio 2015\Projects\LabelTemplateEditor\LabelTemplateEditor\obj\Debug\LabelTemplateEditor.csproj.GenerateResource.Cache
+c:\users\jguzman\documents\visual studio 2015\Projects\LabelTemplateEditor\LabelTemplateEditor\obj\Debug\LabelTemplateEditor.exe
+c:\users\jguzman\documents\visual studio 2015\Projects\LabelTemplateEditor\LabelTemplateEditor\obj\Debug\LabelTemplateEditor.pdb
+c:\users\jguzman\documents\visual studio 2015\Projects\LabelTemplateEditor\LabelTemplateEditor\bin\Debug\Neodynamic.SDK.ThermalLabel.dll
